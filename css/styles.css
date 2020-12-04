@@ -407,7 +407,7 @@ footer {
   font-weight: 700;
 }
 
-@media (max-width: 875px) {
+@media (max-width: 675px) {
   h1 {
     font-size: 2.1rem;
   }
@@ -433,7 +433,7 @@ footer {
   }
 
   .nav-bar li {
-    margin-right: 26px;
+    margin-right: 15px;
   }
 
   .header-logo {
